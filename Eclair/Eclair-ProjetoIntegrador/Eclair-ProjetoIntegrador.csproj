@@ -59,7 +59,11 @@
   <ItemGroup>
     <Content Include="cadastroUsuario.aspx" />
     <Content Include="controleEstoque.aspx" />
+    <Content Include="images\banenr.jpg" />
+    <Content Include="images\cadastro.PNG" />
     <Content Include="images\edit.png" />
+    <Content Include="images\login.PNG" />
+    <Content Include="images\logo.png" />
     <Content Include="images\select.png" />
     <Content Include="index.aspx" />
     <Content Include="indexAdm.aspx" />

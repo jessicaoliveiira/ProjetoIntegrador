@@ -41,7 +41,6 @@
 <div class="centro900">
         <div class="menu">
     <ul class="nav nav-pills nav-stacked">
- <li><a href="index.aspx">Home</a></li>
     <li><a href="listaUsuario.aspx">Lista de Usuarios</a></li>
     <li><a href="cadastroUsuario.aspx">Cadastro de Usuarios</a></li>
     <li><a href="listaProdutos.aspx">Lista de Produtos</a></li>

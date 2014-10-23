@@ -1,0 +1,6 @@
+C:\Users\senac2012\Documents\ProjetoIntegrador\Eclair\Eclair-ProjetoIntegrador\bin\WebApplication1.dll.config
+C:\Users\senac2012\Documents\ProjetoIntegrador\Eclair\Eclair-ProjetoIntegrador\bin\WebApplication1.dll
+C:\Users\senac2012\Documents\ProjetoIntegrador\Eclair\Eclair-ProjetoIntegrador\bin\WebApplication1.pdb
+C:\Users\senac2012\Documents\ProjetoIntegrador\Eclair\Eclair-ProjetoIntegrador\obj\Debug\Eclair-ProjetoIntegrador.csprojResolveAssemblyReference.cache
+C:\Users\senac2012\Documents\ProjetoIntegrador\Eclair\Eclair-ProjetoIntegrador\obj\Debug\WebApplication1.dll
+C:\Users\senac2012\Documents\ProjetoIntegrador\Eclair\Eclair-ProjetoIntegrador\obj\Debug\WebApplication1.pdb
