@@ -13,5 +13,10 @@ namespace WebApplication1
         {
 
         }
+
+        protected void btnNovo_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("cadastroUsuario.aspx");
+        }
     }
 }

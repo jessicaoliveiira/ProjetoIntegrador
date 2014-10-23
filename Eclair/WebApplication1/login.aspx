@@ -22,7 +22,7 @@
                  <div><asp:TextBox ID="TextBox1" runat="server"></asp:TextBox></div>
                            <div><asp:Label ID="Label2" runat="server" Text="Senha:"></asp:Label></div>
                  <div><asp:TextBox ID="TextBox2" runat="server" TextMode="Password"></asp:TextBox></div>
-                 <div> <asp:Button ID="btnNovo" runat="server" CssClass="bottomNovo" Text="Novo Usuario" />  <asp:Button ID="btnLogin" runat="server" CssClass="bottomLogin" Text="Login" /> </div> 
+                 <div> <asp:Button ID="btnNovo" runat="server" CssClass="bottomNovo" Text="Novo Usuario" OnClick="btnNovo_Click" />  <asp:Button ID="btnLogin" runat="server" CssClass="bottomLogin" Text="Login" /> </div> 
 
                     </div>
 
