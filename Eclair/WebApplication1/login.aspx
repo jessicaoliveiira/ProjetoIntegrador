@@ -24,6 +24,9 @@
                  <div><asp:TextBox ID="TextBox2" runat="server" TextMode="Password"></asp:TextBox></div>
                  <div> <asp:Button ID="btnNovo" runat="server" CssClass="bottomNovo" Text="Novo Usuario" OnClick="btnNovo_Click" />  <asp:Button ID="btnLogin" runat="server" CssClass="bottomLogin" Text="Login" /> </div> 
 
+                        <asp:Label ID="lblMensagem" runat="server" Text=""></asp:Label>
+                        <asp:Label ID="lblErro" runat="server" Text=""></asp:Label>
+
                     </div>
 
 
