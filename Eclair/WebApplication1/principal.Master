@@ -1,0 +1,72 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="principal.Master.cs" Inherits="WebApplication1.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="style.css" rel="stylesheet" />
+    <link href="css/bootstrap.css" rel="stylesheet" />
+    <link href="css/bootstrap-responsive.css" rel="stylesheet" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+         <div  class="topo">
+       
+         </div>
+            
+                <header>
+
+
+                    <div class="centro1000">
+                       <div id="logo">
+                        <img src="images/logo.png" alt="Logo" />
+                           
+                    </div>
+                
+                           <div id="procurar">
+                               <input type="search" name="procurar" value="Procurando algo?" />
+                           </div>
+                           
+                    </header>
+<div class="centro900">
+        <div class="menu">
+    <ul class="nav nav-pills nav-stacked">
+ <li><a href="index.aspx">Home</a></li>
+    <li><a href="listaUsuario.aspx">Lista de Usuarios</a></li>
+    <li><a href="cadastroUsuario.aspx">Cadastro de Usuarios</a></li>
+    <li><a href="listaProdutos.aspx">Lista de Produtos</a></li>
+    <li><a href="tabelasFilmes.aspx">Cadastro de Usuarios</a></li>
+    <li><a href="controleEstoque.aspx">Controle de Estoque</a></li>
+</ul>
+
+       
+ </div>
+        <div id="conteudo">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+<!--
+    
+    
+    -->
+
+        </asp:ContentPlaceHolder>
+        </div>
+    
+
+    </div>
+
+
+    <footer>  
+        
+        <div class="col-lg-12 col-md-12 topo">
+            <p>Desenvolvido por <img src="images/mkt1.png" alt="Mkt1 Logo" /></p>
+        </div>
+    </footer>
+
+<form id="form1" runat="server">
+     </form>
+</body>
+</html>
