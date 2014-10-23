@@ -1,0 +1,160 @@
+﻿body {
+}
+
+.topo {
+
+    background:#730d35;
+    height:35px;
+}
+
+
+header {
+    background:#f8f8f5;
+    height:65px;
+    width:100%;
+    margin:0 auto;
+}
+
+.centro1000 {
+    margin:0 auto;
+    width:1000px;
+    padding-top:5px;
+
+}
+.centro900 {
+    margin:0 auto;
+    width:950px;
+    padding-top:5px;
+
+}
+
+.menu {
+    width:200px;
+    height:400px;
+    background:#f8f8f8;
+    padding:20px;
+    margin-top:-10px;
+    float:left;
+}
+
+#conteudo {
+    float:right;
+    height:500px;
+}
+
+#logo{
+    float:left;
+    width:30%;
+}
+#procurar{
+    float:right;
+    height:30px;
+    width:70%;
+    padding-top:13px;
+}
+
+footer {
+    position:fixed;
+    bottom:1px;
+    width:100%;
+height:30px;
+padding:20px;
+padding-top:38px;
+background:#730d35;
+text-align:center;  
+    color:#fff;
+}
+
+#procurar input{
+width:500px;
+border-radius:30px;
+padding-left:15px;
+}
+#topo{
+    width:900px;
+    margin:auto;
+    height:100px;
+    font-family:20px;
+}
+
+
+#menu li{
+    list-style-type:none;
+    float:left;
+    padding:10px;
+}
+#menu{
+    width:300px;
+    height:50px;
+    margin:auto;
+}
+
+
+.conteudoLogin {
+ width: 400px;
+    height: 400px;
+    margin-left: -200px; /* metade da largura */
+    margin-top: -200px; /* metade da altura */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+	}
+
+#login {
+    text-align:left;
+    width:300px;
+    margin:0 auto;
+    background:#fff;
+    border-radius:20px;
+    padding:20px;
+    padding-left:40px;
+    padding-right:40px;
+    box-shadow:0px 0px 15px #ccc;
+    color:#666;
+}
+#login input[type="password"]{
+  
+    height:30px;
+    border-radius:2px;
+    width:280px;
+    }#login input[type="text"]{
+  
+    height:30px;
+    border-radius:2px;
+    width:280px;
+    }
+    #login input[type="submit"] {
+padding:0px;
+    }
+
+    #login .bottomLogin {
+        height: 37px;
+        width: 77px;
+        color:#fff;
+        border:0px;
+        background:url(images/login.png) no-repeat;
+        margin-left:70px;
+    }
+    
+       #login .bottomCadastrar {
+        height: 37px;
+        width: 140px;
+        color:#fff;
+        border:0px;
+        background:url(images/cadastro.png) no-repeat;
+        
+    }
+    #login .bottomNovo {
+        height: 37px;
+        width: 140px;
+        color:#fff;
+        border:0px;
+        background:url(images/cadastro.png) no-repeat;
+        
+    }
+
+
+.logo {
+
+    padding:30px;
+}
